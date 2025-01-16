@@ -1,0 +1,8 @@
+streamlit
+pandas
+aiohttp
+openai
+openpyxl
+streamlit-option-menu
+google-generativeai
+requests
